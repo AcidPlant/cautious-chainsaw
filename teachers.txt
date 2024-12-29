@@ -1,5 +1,0 @@
-Mike Wonderson 65 Male Math 12 900000
-Bob Mayday 51 Male Philosophy 15 1900000
-Mary Petrova 47 Female Sociology 27 1110000
-Ludmila Constantinova 45 Female Programming 13 577000
-Marco Polo 49 Male Arts 9 750000
