@@ -6,7 +6,7 @@ public class Main {
         School school = new School();
 
         // Process students
-        File studentsFile = new File("C:\\Users\\Moge-ko\\Downloads\\students.txt");
+        File studentsFile = new File("src/students.txt");
         Scanner studentScanner = new Scanner(studentsFile);
         while (studentScanner.hasNextLine()) {
             String[] studentData = studentScanner.nextLine().split(" ");
@@ -22,7 +22,7 @@ public class Main {
         studentScanner.close();
 
         // Process teachers
-        File teachersFile = new File("C:\\Users\\Moge-ko\\Downloads\\teachers.txt");
+        File teachersFile = new File("src/teachers.txt");
         Scanner teacherScanner = new Scanner(teachersFile);
         while (teacherScanner.hasNextLine()) {
             String[] teacherData = teacherScanner.nextLine().split(" ");
